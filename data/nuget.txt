@@ -1,0 +1,1 @@
+PM >> install-package Microsoft.Data.SqlClient
